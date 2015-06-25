@@ -1,0 +1,14 @@
+.divitems{ width:960px; margin:0 auto; font-size:14px; border:#CCCCCC 1px solid; padding:5px;}
+.divitems table{ border-collapse:collapse;}
+.divitems tr{ line-height:33px;}
+.divitems tr:hover{ background-color:#eafbf9; color:#333333; cursor:pointer;}
+.divitems td{ border:#666666 1px solid; padding-left:15px;}
+
+.divitems div{ height:27px; padding-top:7px; padding-bottom:5px; border-bottom:#c9cfd0 1px dashed;}
+.divitems input[type='text']{ width:220px; height:20px; padding-top:3px; border:#333333 1px solid;}
+.divitems input[type='text']:hover{border:#cf4c04 1px solid;}
+.divitems input[type='password']{ width:220px; height:20px; padding-top:3px; border:#333333 1px solid;}
+.divitems input[type='password']:hover{border:#cf4c04 1px solid;}
+
+.divitems a{ text-decoration:none; color:#333333;}
+.divitems a:hover{ text-decoration:underline; color:#CC3300;}

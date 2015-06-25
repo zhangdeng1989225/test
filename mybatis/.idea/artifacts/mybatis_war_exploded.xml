@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="mybatis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybatis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mybatis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mybatis" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-4.0.0.M2.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
