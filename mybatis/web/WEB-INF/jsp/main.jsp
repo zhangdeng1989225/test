@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>无标题文档</title>
+    <title>新闻后台管理新系统</title>
 </head>
 <FRAMESET rows="33%,67%" cols="*">
     <FRAME src="/jsp/top.jsp" name="topFrame" scrolling="NO" marginwidth="0" marginheight="0">
